@@ -1,1 +1,1 @@
-# MICODIGOLIBRE.COM-access_ajax_mysql_encryp_dificult
+(AES) ENCRYPT / DECRYPT (Key dynamic) JS AND PHP - USER ACCESS
